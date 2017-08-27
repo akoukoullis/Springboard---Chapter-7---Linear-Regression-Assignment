@@ -1,0 +1,22 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+*~
+*.log
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+raw_data/
+.Rproj.user/
+scratchpad.R
+ClimateChange-master/
+.Rproj.user
+*.Rproj
+world_heatmap_test.R
+script.R
+script.html
+script_cache/
+script_files/
+*.zip
+map_test.R
+heat.png
